@@ -1,6 +1,6 @@
 # AI-generated-Clients-for-Data-Project-Practice
 
-##🚀 How AI-Generated Clients Can Help You Master Data Analysis in Any Industry
+## 🚀 How AI-Generated Clients Can Help You Master Data Analysis in Any Industry
 
 Are online courses or YouTube playlists enough to become a great data analyst? Most people think so—until they face real-world challenges. The truth is, data analysis isn't just about mastering tools like Python, SQL, or Power BI. It's about critical thinking, domain knowledge, and applying insights to solve actual business problems.
 
